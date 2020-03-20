@@ -8,15 +8,14 @@ In the repo, I share the game assets I've made for my work. I am a developer, an
 
 ## Folder Structure
 
-> 2D Assets
->> *asset_name*
->>> PNG Files
->>>> *It contains the version of the asset in .png format.*
->>> SVG Files
->>>> *It contains the version of the asset in .svg format for those who want to change and improve.*
->>> Unity Package
->>>> *It is ready to import and use in Unity with a sample scene. There is no need for any setting in the sprite editor.*
-
+    .
+    ├── 2D Assets          
+    │   ├── <asset_name>                 
+    │   │   ├── PNG Files         # It contains the file of the asset in .png format.        
+    │   │   ├── SVG Files         # It contains the file of the asset in .svg format for those who want to change and      improve.   
+    │   │   └── Unity Package     # It is ready to import and use in Unity with a sample scene. There is no need for any setting in the sprite editor.       
+    │   └── ...
+    └── ...
 
 ## Useful Links
 
