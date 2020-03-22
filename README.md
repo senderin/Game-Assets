@@ -28,10 +28,10 @@ Also, you can find the links of resources such as websites and blogs that I use 
 
 * Homes (Path: 2D Assets/Home_Sprite)
     
-    <img src="https://github.com/senderin/Game-Assets/blob/master/2D%20Assets/Home_Sprite/PNG%20Files/homes.png" width="100" height="100"/>
+    <img src="https://github.com/senderin/Game-Assets/blob/master/2D%20Assets/Home_Sprite/PNG%20Files/homes.png" width="300" height="300"/>
 
 * Tile Set (Path: 2D Assets/Basic_TileSet)
     
-    <img src="https://github.com/senderin/Game-Assets/blob/master/2D%20Assets/Basic_TileSet/PNG%20Files/basic_tileset.png" width="100" height="100"/>
+    <img src="https://github.com/senderin/Game-Assets/blob/master/2D%20Assets/Basic_TileSet/PNG%20Files/basic_tileset.png" width="450" height="200"/>
     
 
