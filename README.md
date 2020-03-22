@@ -22,10 +22,16 @@ In the repo, I share the game assets I've made for my work. I am a developer, an
 Also, you can find the links of resources such as websites and blogs that I use while making these assets. *I would like to thank these people, who shared their knowledge and helped us develop together.*
 
   * For Home Sprite : [Building a Brick House - 2DGameArtGuru](https://2dgameartguru.com/creating-a-brick-building/)
+  * For Basic Tile Set: [Continue Fun with Squares - 2DGameArtGuru](https://2dgameartguru.com/continue-the-fun-with-squares/)
   
 ## Quick Look to Assets
 
 * Homes (Path: 2D Assets/Home_Sprite)
     
     <img src="https://github.com/senderin/Game-Assets/blob/master/2D%20Assets/Home_Sprite/PNG%20Files/homes.png" width="100" height="100"/>
+
+* Tile Set (Path: 2D Assets/Basic_TileSet)
+    
+    <img src="https://github.com/senderin/Game-Assets/blob/master/2D%20Assets/Basic_TileSet/PNG%20Files/basic_tileset.png" width="100" height="100"/>
+    
 
