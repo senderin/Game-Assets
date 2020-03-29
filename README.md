@@ -34,4 +34,10 @@ Also, you can find the links of resources such as websites and blogs that I use 
     
     <img src="https://github.com/senderin/Game-Assets/blob/master/2D%20Assets/Basic_TileSet/PNG%20Files/basic_tileset.png" width="450" height="200"/>
     
+* Windmill (Path: 2D Assets/Windmill_Sprite)
+
+    <img src="https://github.com/senderin/Game-Assets/blob/master/2D%20Assets/WindMill_Sprite/PNG%20Files/windmill.png" width="450" height="200"/>
+    
+    
+    
 
