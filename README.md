@@ -38,6 +38,8 @@ Also, you can find the links of resources such as websites and blogs that I use 
 
     <img src="https://github.com/senderin/Game-Assets/blob/master/2D%20Assets/WindMill_Sprite/PNG%20Files/windmill.png" width="450" height="200"/>
     
-    
+* Tree Sprites (Path: 2D Assets/Windmill_Sprite)
+
+    <img src="https://github.com/senderin/Game-Assets/blob/master/2D%20Assets/Tree_Sprite/PNG%20Files/tree.png" width="1200" height="100"/>    
     
 
